@@ -1,0 +1,11 @@
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/bin/Debug/netstandard2.0/RenaStore.Domain.deps.json
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/bin/Debug/netstandard2.0/RenaStore.Domain.dll
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/bin/Debug/netstandard2.0/RenaStore.Domain.pdb
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/bin/Debug/netstandard2.0/RenaStore.Shared.dll
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/bin/Debug/netstandard2.0/RenaStore.Shared.pdb
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/obj/Debug/netstandard2.0/RenaStore.Domain.csprojAssemblyReference.cache
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/obj/Debug/netstandard2.0/RenaStore.Domain.AssemblyInfoInputs.cache
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/obj/Debug/netstandard2.0/RenaStore.Domain.AssemblyInfo.cs
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/obj/Debug/netstandard2.0/RenaStore.Domain.csproj.CopyComplete
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/obj/Debug/netstandard2.0/RenaStore.Domain.dll
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/obj/Debug/netstandard2.0/RenaStore.Domain.pdb

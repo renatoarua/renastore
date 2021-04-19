@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/RenaStore.Infra.csproj": {}
+  },
+  "projects": {
+    "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/RenaStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/RenaStore.Domain.csproj",
+        "projectName": "RenaStore.Domain",
+        "projectPath": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/RenaStore.Domain.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/RenaStore.Shared.csproj": {
+                "projectPath": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/RenaStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FluentValidator": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/RenaStore.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/RenaStore.Infra.csproj",
+        "projectName": "RenaStore.Infra",
+        "projectPath": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/RenaStore.Infra.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/RenaStore.Domain.csproj": {
+                "projectPath": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Domain/RenaStore.Domain.csproj"
+              },
+              "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/RenaStore.Shared.csproj": {
+                "projectPath": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/RenaStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/RenaStore.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/RenaStore.Shared.csproj",
+        "projectName": "RenaStore.Shared",
+        "projectPath": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/RenaStore.Shared.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FluentValidator": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

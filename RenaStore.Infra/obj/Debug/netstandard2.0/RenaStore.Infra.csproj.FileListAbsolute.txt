@@ -1,0 +1,13 @@
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/bin/Debug/netstandard2.0/RenaStore.Infra.deps.json
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/bin/Debug/netstandard2.0/RenaStore.Infra.dll
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/bin/Debug/netstandard2.0/RenaStore.Infra.pdb
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/bin/Debug/netstandard2.0/RenaStore.Domain.dll
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/bin/Debug/netstandard2.0/RenaStore.Shared.dll
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/bin/Debug/netstandard2.0/RenaStore.Shared.pdb
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/bin/Debug/netstandard2.0/RenaStore.Domain.pdb
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/obj/Debug/netstandard2.0/RenaStore.Infra.csprojAssemblyReference.cache
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/obj/Debug/netstandard2.0/RenaStore.Infra.AssemblyInfoInputs.cache
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/obj/Debug/netstandard2.0/RenaStore.Infra.AssemblyInfo.cs
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/obj/Debug/netstandard2.0/RenaStore.Infra.csproj.CopyComplete
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/obj/Debug/netstandard2.0/RenaStore.Infra.dll
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Infra/obj/Debug/netstandard2.0/RenaStore.Infra.pdb

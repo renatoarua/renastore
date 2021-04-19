@@ -1,0 +1,7 @@
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/bin/Debug/netstandard2.0/RenaStore.Shared.deps.json
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/bin/Debug/netstandard2.0/RenaStore.Shared.dll
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/bin/Debug/netstandard2.0/RenaStore.Shared.pdb
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/obj/Debug/netstandard2.0/RenaStore.Shared.AssemblyInfoInputs.cache
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/obj/Debug/netstandard2.0/RenaStore.Shared.AssemblyInfo.cs
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/obj/Debug/netstandard2.0/RenaStore.Shared.dll
+/home/renatoarua/dev/courses/1974/RenaStore/RenaStore.Shared/obj/Debug/netstandard2.0/RenaStore.Shared.pdb
